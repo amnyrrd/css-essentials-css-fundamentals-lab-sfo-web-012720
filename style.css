@@ -28,6 +28,7 @@ a {
 }
 
 #details {
+  text-align: center;
   width: 25%;
   background-color: red;
 }
