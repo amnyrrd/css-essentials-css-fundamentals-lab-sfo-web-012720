@@ -29,6 +29,7 @@ a {
 
 #details {
   text-align: center;
+  display: block;
   width: 25%;
   background-color: red;
   float: left;
