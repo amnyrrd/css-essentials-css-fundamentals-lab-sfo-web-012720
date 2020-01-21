@@ -28,12 +28,10 @@ a {
 }
 
 #details {
+  text-align: center;
   display: block;
   float: left;
-}
-
-div {
-  text-align: center;
-  width: 25%
+  width: 25%;
   background-color: red;
 }
+
