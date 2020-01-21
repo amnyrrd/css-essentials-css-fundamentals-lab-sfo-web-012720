@@ -29,12 +29,11 @@ a {
 
 #details {
   display: block;
-
   background-color: red;
 }
 
 div {
     text-align: center;
     width: 25%;
-      float: left;
+    float: left;
 }
