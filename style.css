@@ -30,7 +30,7 @@ a {
 #details {
   text-align: center;
   display: block;
+  float: left;
   width: 25%;
   background-color: red;
-  float: left;
 }
